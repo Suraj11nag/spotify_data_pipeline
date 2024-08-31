@@ -1,4 +1,4 @@
-## How Create a ZIP File for Your AWS Lambda Layer
+## How Create a .zip file for our AWS Lambda Layer
 
 1. Set up your environment:
 
